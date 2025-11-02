@@ -4,7 +4,7 @@ This repository provides the official implementation of the paper:
 
 > "ZeroSlide: Is Zero-Shot Classification Adequate for Lifelong Learning in Whole-Slide Image Analysis in the Era of Pathology Vision–Language Foundation Models?"
 
-![alt text]([https://hackmd.io/_uploads/HJuSd1H1bl.png])
+<img width="1947" height="1174" alt="{EE8B978B-7FDB-49B4-88D9-C5B4AB01DA99}" src="https://github.com/user-attachments/assets/38cb7be6-9669-470c-9b51-b509ef9dcb41" />
 
 # 1. Get started
 
